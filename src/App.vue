@@ -27,4 +27,12 @@ html {
 body {
   margin: 0;
 }
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+textarea {
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
 </style>
